@@ -1,6 +1,6 @@
 # Sport Store E-commerce Website 🏀👟💳
 
-**Live Demo:** [🚀 Experience the Store Live]()
+**No Live Demo Yet:** [🚀 Experience the Store Live]()
 
 A dynamic, full-stack e-commerce solution designed for sports enthusiasts. This project demonstrates a robust implementation of server-side logic using **C#** and a modular front-end architecture.
 
